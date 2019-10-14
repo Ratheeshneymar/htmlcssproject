@@ -601,14 +601,14 @@ p.subhead-btm{
 		font-size: 17px;
 	}
 	.social-media{
-		text-align: left;
-		margin-left: 20px;
+		text-align: center;
+	    width: 100%;
 	}
 	.footer{
 		height: 300px;
 		padding: 0px;
 	}
 	.fa-facebook-f, .fa-twitter, .fa-instagram {
-    margin-top: 60px;
+    	margin-top: 60px;
 	}
 }
