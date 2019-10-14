@@ -94,7 +94,7 @@ ul.navbar-right li{
 	.banner-content{
 		padding: 20px;
 	    max-width: 100%;
-	    margin-top: 0px;
+	    margin-top: 50px;
 	}
 	.banner-h1-btm{
 		margin: 0px;
@@ -129,7 +129,7 @@ ul.navbar-right li{
 }
 @media screen and (min-device-width: 320px) and (max-device-width: 568px){
 	.banner-content{
-		margin-top: 10px;
+		margin-top: 50px;
 	}
 	span.white-subhead.second-subhead{
 		display: contents;
@@ -200,12 +200,12 @@ p.black-subhead {
 	}
 	.section-one-para2{
 		margin-bottom: 10px;
-		font-size: 20px;
+		font-size: 14px;
 	}
 	.section-one-para1{
 		margin-top: 0px;
 		margin-bottom: 40px;
-		font-size: 20px;
+		font-size: 14px;
 	}
 	h1.black-head{
 		font-size: 30px;
@@ -265,7 +265,7 @@ p.black-subhead {
 }
 .card-declaration-content{
 	font-family: Verdana;
-	font-size: 18px;
+	font-size: 19px;
 	text-align: center;
 	font-weight: bold;
 	color: #484848;
@@ -590,14 +590,17 @@ p.subhead-btm{
 	}
 	.footer-color{
 		margin-top: 10px;
-		font-size: 20px;
+		font-size: 17px;
 	}
 	.social-media{
 		text-align: left;
 		margin-left: 20px;
 	}
 	.footer{
-		height: 350px;
+		height: 300px;
 		padding: 0px;
+	}
+	.fa-facebook-f, .fa-twitter, .fa-instagram {
+    margin-top: 60px;
 	}
 }
