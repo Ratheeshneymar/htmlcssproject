@@ -529,7 +529,7 @@ p.subhead-btm{
 	margin-top: 50px;
 	width: 100%;
 }
-@media screen and (max-width: 414px){
+@media screen and (max-width: 767px){
 	.image-content{
 		margin-top: 0px;
 		margin-left: 0px;
@@ -582,7 +582,7 @@ p.subhead-btm{
 	color: #ababab;
 	font-family:  sans-serif;
 }
-@media screen and (max-width: 414px){
+@media screen and (max-width: 767px){
 	.inline-footer{
 		display: block;
 		padding: 0px;
@@ -610,5 +610,6 @@ p.subhead-btm{
 	}
 	.fa-facebook-f, .fa-twitter, .fa-instagram {
     	margin-top: 60px;
+    	padding: 20px;
 	}
 }
