@@ -310,7 +310,7 @@ button.pink-button{
 	border-radius: 3px;
 	font-family: Microsoft YaHei UI;
 }
-@media screen and (min-device-width: 320px) and (max-device-width: 768px){
+@media screen and (min-device-width: 100px) and (max-device-width: 768px){
 	.section-two{
 		max-width: 100%;
 		height: 1250px;
